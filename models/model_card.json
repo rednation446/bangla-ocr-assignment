@@ -1,0 +1,8 @@
+{
+  "run_id": "da63348dfac743198402f3a4bde90d11",
+  "run_name": "crnn-e10-lr2e-3",
+  "val_cer": 0.15893056071295952,
+  "val_word_acc": 0.505,
+  "val_word_acc_dictionary": 0.9466666666666667,
+  "saved_at": "2026-11-17T00:59:49"
+}

@@ -1,0 +1,15 @@
+# dataset (download it yourself, see README)
+data/
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# temporary files and the submission zip
+artifacts/mlflow/tmp_run_files/
+*.zip

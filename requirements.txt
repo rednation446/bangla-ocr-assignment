@@ -1,0 +1,13 @@
+# Model training and inference (Keras 3 ships with TensorFlow 2.20)
+tensorflow==2.20.0
+numpy==2.0.2
+pillow==10.4.0
+pandas==2.2.2
+
+# Experiment tracking and training plots
+mlflow==3.17.2
+matplotlib==3.10.8
+
+# Web app with a drawing canvas (the canvas component needs Streamlit 1.38)
+streamlit==1.38.0
+streamlit-drawable-canvas==0.9.3

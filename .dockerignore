@@ -1,0 +1,12 @@
+.git
+.venv/
+venv/
+data/
+artifacts/
+screenshots/
+__pycache__/
+*.zip
+*.md
+train.py
+make_source_zip.py
+github_link.txt
